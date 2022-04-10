@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_GPIO_PACKAGE
+	bool "gpio-package"
+	help
+	  Simple code for GPIO pins on Raspberry Pi 3.
