@@ -16,6 +16,10 @@ Click [here](https://github.com/cu-ecen-aeld/final-project-Amey2904dash/wiki/Fin
 * Varun Mehta (varun.mehta@colorado.edu)
 * Amey Dashaputre (amey.dashaputre@colorado.edu)
 
+# Face Recognition Code Reference
+https://github.com/niladri30/Face-Recognition-Raspberry-pi
+
+
 # buildroot-rpi
 We will be using rpi3
 
