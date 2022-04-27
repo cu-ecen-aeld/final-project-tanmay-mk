@@ -10,39 +10,17 @@ Click [here](https://github.com/cu-ecen-aeld/final-project-Amey2904dash/wiki/Pro
 
 Click [here](https://github.com/cu-ecen-aeld/final-project-Amey2904dash/wiki/Final-Project-Schedule-Page) for Project Schedule page.
 
+# Student Video Demos
+
+Click [here](https://github.com/cu-ecen-aeld/final-project-Amey2904dash/wiki/Tanmay's-Final-Project-Video) for Tanmay's Final Project Video.
+
+Click [here](https://github.com/cu-ecen-aeld/final-project-Amey2904dash/wiki/Varun's-Final-Project-Video) for Varun's Final Project Video.
+
+Click [here](https://github.com/cu-ecen-aeld/final-project-Amey2904dash/wiki/Amey's-Final-Project-Video) for Amey's Final Project Video.
+
+
 # Team Members
 
 * Tanmay Kothale (tanmay.kothale@colorado.edu)
 * Varun Mehta (varun.mehta@colorado.edu)
 * Amey Dashaputre (amey.dashaputre@colorado.edu)
-
-# Face Recognition Code Reference
-https://github.com/niladri30/Face-Recognition-Raspberry-pi
-
-
-# buildroot-rpi
-We will be using rpi3
-
-Configuration of rpi  for Buildroot:
-----------------------------
-Other configuration of rpi:
-----------------------------
-For models A, B, A+ or B+:
-
-  $ make raspberrypi_defconfig
-
-For model Zero (model A+ in smaller form factor):
-
-  $ make raspberrypi0_defconfig
-
-For model 2 B:
-
-  $ make raspberrypi2_defconfig
-
-For model 3 B and B+:
-
-  $ make raspberrypi3_defconfig
-
-For model 4 B:
-
-  $ make raspberrypi4_defconfig
